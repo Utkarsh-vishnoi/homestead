@@ -20,6 +20,10 @@ sites:
 databases:
     - homestead
 
+# commands:
+#    - name: Starting Mailcatcher
+#    command: mailcatcher --ip=0.0.0.0
+
 # blackfire:
 #     - id: foo
 #       token: bar
